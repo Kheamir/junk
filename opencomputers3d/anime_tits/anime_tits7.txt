@@ -1,5 +1,5 @@
 {
-   label = "anime_tits",
+   label = "anime_tits_30x11",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x53aad7},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x4da9d8},
@@ -70,7 +70,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_31x11",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x174d57},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x4a808a},
@@ -141,7 +141,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_0x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x51adde},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x4faede},
@@ -212,7 +212,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_1x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x53b4df},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x53b4df},
@@ -283,7 +283,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_2x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x53b4df},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x53b4df},
@@ -354,7 +354,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_3x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x52b5de},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x52b5df},
@@ -425,7 +425,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_4x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x54b4de},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x52b3dd},
@@ -496,7 +496,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_5x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x70b2c8},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xafe0e5},
@@ -567,7 +567,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_6x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x84c6d4},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x457673},
@@ -638,7 +638,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_7x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x2b493f},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x26463b},
@@ -709,7 +709,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_8x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x102a1f},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x1b352a},
@@ -780,7 +780,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_9x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x3a463c},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x1b1b13},
@@ -851,7 +851,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_10x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x24382d},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x4a5b53},
@@ -922,7 +922,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_11x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x21511},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x10231d},
@@ -993,7 +993,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_12x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x629495},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x83bdbe},
@@ -1064,7 +1064,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_13x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0xfcd1d8},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xf9cfd3},
@@ -1135,7 +1135,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_14x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0xe2bbbe},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xe1bdbf},
@@ -1206,7 +1206,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_15x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0xeacacb},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xeccacb},
@@ -1277,7 +1277,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_16x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0xebc9ca},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xebc9ca},
@@ -1348,7 +1348,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_17x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0xe9cbcb},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xe8cccb},
@@ -1419,7 +1419,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_18x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0xe8c8c9},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xe7c9c9},
@@ -1490,7 +1490,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_19x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0xe8c9c7},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xe9c9ca},
@@ -1561,7 +1561,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_20x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0xe5cfd1},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xdbd1cf},
@@ -1632,7 +1632,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_21x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0xa2a15},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x1c3b29},
@@ -1703,7 +1703,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_22x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x314f45},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x2d4b41},
@@ -1774,7 +1774,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_23x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x19372b},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x1d3c2d},
@@ -1845,7 +1845,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_24x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x152a21},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x15241d},
@@ -1916,7 +1916,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_25x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x1d2d23},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xb1b11},
@@ -1987,7 +1987,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_26x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x35493e},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x11271b},
@@ -2058,7 +2058,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_27x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x3f645c},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x3e6459},
@@ -2129,7 +2129,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_28x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x527a6f},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x577f76},
@@ -2200,7 +2200,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_29x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x4a7669},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x3c665a},
@@ -2271,7 +2271,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_30x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x4fabde},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x52aedf},
@@ -2342,7 +2342,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_31x12",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x649fb1},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x93e4c},
@@ -2413,7 +2413,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_0x13",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x50acdf},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x51acdb},
@@ -2484,7 +2484,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_1x13",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x54b5e0},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x54b5e0},
@@ -2555,7 +2555,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_2x13",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x54b5e0},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x54b5e0},
@@ -2626,7 +2626,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_3x13",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x54b5e0},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x54b5e0},
@@ -2697,7 +2697,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_4x13",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x54b5e0},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x54b5e0},
@@ -2768,7 +2768,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_5x13",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x88c7d8},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xb2e5e9},
@@ -2839,7 +2839,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_6x13",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x02c44},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x9bd0de},
@@ -2910,7 +2910,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_7x13",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x214134},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x29493c},
@@ -2981,7 +2981,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_8x13",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x294338},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x264035},
@@ -3052,7 +3052,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_9x13",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x394e45},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x394d44},
@@ -3123,7 +3123,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_10x13",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0xa797a1},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xc0acb7},
@@ -3194,7 +3194,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_11x13",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x75b6b2},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x7abfbc},
@@ -3265,7 +3265,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_12x13",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0xe7bebc},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xebbfbe},
@@ -3336,7 +3336,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_13x13",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0xe9bfc3},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xe6bdc1},
@@ -3407,7 +3407,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_14x13",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0xe4c2c3},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xe4c4c5},
@@ -3478,7 +3478,7 @@
  
  
 {
-   label = "anime_tits",
+   label = "anime_tits_15x13",
    shapes = {
       {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0xecd1d6},
       {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xecd1d6},
