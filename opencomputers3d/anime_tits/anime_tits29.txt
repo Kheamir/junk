@@ -1,14 +1,14 @@
 {
    label = "anime_tits_10x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x8b5d60},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x8b5d60},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x8b5d60},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x8a5c5f},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x8a5b61},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x895a60},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x885b60},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x885b5e},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0xa27375},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xa27375},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0xa17275},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0xa07170},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x9e706c},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x9d6f6b},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x9c6e6a},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x996b67},
    }
 },
  
@@ -16,14 +16,14 @@
 {
    label = "anime_tits_11x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x8b5b5b},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x885b58},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x885c5d},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x875b5c},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x865558},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x865656},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x825655},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x7d5651},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x986965},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x956662},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x926360},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x90615e},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x8d5f5b},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x8d5f5b},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x8d5f5b},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x8d5f5b},
    }
 },
  
@@ -31,14 +31,14 @@
 {
    label = "anime_tits_12x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x825c5b},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x64514b},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x3c493f},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x2f4b3f},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x364d45},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x37504a},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x325247},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x2e5246},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x8d5f5b},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x8d5f5b},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x8c5e5a},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x8c5e5a},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x8e605c},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x8e605c},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x8e605c},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x8e605c},
    }
 },
  
@@ -46,14 +46,14 @@
 {
    label = "anime_tits_13x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x315247},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x305146},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x315146},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x315146},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x325046},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x314f45},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x334e45},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x324d44},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x8e605c},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x8e605c},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x8e605c},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x8c5e5a},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x8c5e5a},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x8f615d},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x8f615d},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x8e605c},
    }
 },
  
@@ -61,14 +61,14 @@
 {
    label = "anime_tits_14x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x324c43},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x324c43},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x334a42},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x30473f},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x2e453d},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x2d443c},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x2f463e},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x30473d},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x92625f},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x916360},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x8e625e},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x8d615d},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x8b605b},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x8b605b},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x8b615c},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x8b5d59},
    }
 },
  
@@ -76,14 +76,14 @@
 {
    label = "anime_tits_15x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x2e453b},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x2f463c},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x2f443d},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x2e453d},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x2d473e},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x2b473b},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x2e453d},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x3c463d},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x8a5b57},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x8a5c58},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x895b57},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x895b57},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x8a5c58},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x8a5c58},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x8a5c58},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x8a5c58},
    }
 },
  
@@ -91,14 +91,14 @@
 {
    label = "anime_tits_16x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x3a231d},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x784f49},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x854f4f},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x8a504f},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x894f4b},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x88514c},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x88514e},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x87514f},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x8b5d59},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x8b5d59},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x8b5d59},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x8d5b59},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x8f5a59},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x8f5a59},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x8e5958},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x8e5958},
    }
 },
  
@@ -106,14 +106,14 @@
 {
    label = "anime_tits_17x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x88514e},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x88514e},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x895150},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x895150},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x885250},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x885250},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x865350},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x865350},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x8e5958},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x8d5a58},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x8d5b57},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x905857},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x925958},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x915d59},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x8a5550},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x443831},
    }
 },
  
@@ -121,14 +121,14 @@
 {
    label = "anime_tits_18x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x85524f},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x85524f},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x84534e},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x84534e},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x84534c},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x84534c},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x83524b},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x82534d},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x2d4b43},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x394e47},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x384d45},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x384e46},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x394e47},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x394f48},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x385048},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x385048},
    }
 },
  
@@ -136,14 +136,14 @@
 {
    label = "anime_tits_19x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x7e554f},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x7d5651},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x815650},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x835852},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x875753},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x885854},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x8b5854},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x8b5854},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x385048},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x385048},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x385048},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x385048},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x395149},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x3c544c},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x3d564e},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x3d564e},
    }
 },
  
@@ -151,14 +151,14 @@
 {
    label = "anime_tits_20x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x8b5652},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x8b5652},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x885552},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x865551},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x875554},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x845754},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x855855},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x865956},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x3d554e},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x3c574e},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x3c5a4f},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x3c5a4f},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x3b594e},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x3b594e},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x3c5a4f},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x3c5b50},
    }
 },
  
@@ -166,14 +166,14 @@
 {
    label = "anime_tits_21x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x875753},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x885753},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x885753},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x885753},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x875652},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x865551},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x865551},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x865551},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x3c5b50},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x3c5b50},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x3d5950},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x3e584f},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x3b584e},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x32403a},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x604848},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x936467},
    }
 },
  
@@ -181,14 +181,14 @@
 {
    label = "anime_tits_22x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x885753},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x865551},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x865550},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x885752},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x8a5954},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x8b5a55},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x8e5d58},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x91625c},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x8c5c59},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x86615b},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x865e5d},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x8d5f61},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x916567},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x906466},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x8f6365},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x906466},
    }
 },
  
@@ -196,14 +196,14 @@
 {
    label = "anime_tits_23x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x8f645d},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x8e665e},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x946762},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x966964},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x9a6965},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x9b6a66},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x9e6868},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x9e6868},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x906466},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x8f6466},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x8d6566},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x8d6566},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x8e6566},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x8f6667},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x8e6667},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x8f6667},
    }
 },
  
@@ -211,14 +211,14 @@
 {
    label = "anime_tits_24x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x9f686b},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x9f686b},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0xa0696c},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0xa0696c},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0xa16a6d},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0xa26b6e},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0xa06c6e},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x9f6d6e},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x906667},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x906667},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x906667},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x916768},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x926768},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x92696a},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x946d6e},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x977071},
    }
 },
  
@@ -226,14 +226,14 @@
 {
    label = "anime_tits_25x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x9d706d},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x9c706d},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0xa0706e},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0xa2706f},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0xa3706f},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0xa67070},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0xa86d6f},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0xa86d6f},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x987071},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x966f70},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x977071},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x997071},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x9a6f71},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x9a6e71},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x996d6f},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x986c6e},
    }
 },
  
@@ -241,14 +241,14 @@
 {
    label = "anime_tits_26x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0xa86d6f},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xa86d6f},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0xa76f70},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0xa67070},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0xa4716e},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0xa4736f},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0xa57571},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0xa87675},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x986c6e},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x986d6e},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x976f70},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x987071},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x997172},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x997273},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x997273},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x9a7273},
    }
 },
  
@@ -256,14 +256,14 @@
 {
    label = "anime_tits_27x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0xa36f71},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xac757b},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0xa87079},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x6a4149},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x3c2f36},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x37343d},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x483d4e},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x52465c},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x9c7173},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x9d7173},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x9e7374},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x9e7374},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x9f7374},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0xa8797c},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x886566},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x2e2a28},
    }
 },
  
@@ -271,14 +271,14 @@
 {
    label = "anime_tits_28x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x504b5f},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x4a4758},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x554a5a},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x504553},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x4a4450},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x504a58},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x413549},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x3f3445},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x242c2f},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x2e2c38},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x3c323f},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x3a353f},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x3c3b45},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x37343e},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x302d38},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x34313c},
    }
 },
  
@@ -286,14 +286,14 @@
 {
    label = "anime_tits_29x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x443c47},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x3d3741},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x41384b},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x493b55},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x523d5c},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x9f88a5},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x5c4e5f},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x79737d},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x34323c},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x494450},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x5c5364},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x5a5163},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x5b5264},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x5a5163},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x5a5163},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x5a5163},
    }
 },
  
@@ -301,14 +301,14 @@
 {
    label = "anime_tits_30x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x777c82},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x546a75},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x5d8ba5},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x7abcdc},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x6dc1e3},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x6dc1db},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x72b1c0},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x91aeb4},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x595061},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x564e5f},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x5b5365},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x6f657a},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x73657c},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x66617a},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x73a1c5},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x79ccec},
    }
 },
  
@@ -316,28 +316,27 @@
 {
    label = "anime_tits_31x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x331d1f},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x7c4e4e},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0xa17171},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0xa0706e},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0xa06d6c},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x9f6c69},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0xa16c68},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0xa46f6b},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x62c8e3},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x68c6e6},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x6ec3e3},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x6cc4e3},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x6cc2e5},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x6ec3e5},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x6ec5e4},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x6cc6e4},
    }
 },
  
  
 {
-   label = "anime_tits_0x47",
+   label = "anime_tits_1x46",
    shapes = {
-      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0xa56e6b},
-      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0xa56e6b},
-      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0xa56d6c},
-      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0xa56d6c},
-      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0xa46e6c},
-      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0xa56f6d},
-      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0xa56f6f},
-      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0xa56f6f},
+      {0, 14, 15, 2,16, 16, texture = "opencomputers:White", tint = 0x68c8e6},
+      {2, 14, 15, 4,16, 16, texture = "opencomputers:White", tint = 0x66c7e3},
+      {4, 14, 15, 6,16, 16, texture = "opencomputers:White", tint = 0x6cc5db},
+      {6, 14, 15, 8,16, 16, texture = "opencomputers:White", tint = 0x64c7e6},
+      {8, 14, 15, 10,16, 16, texture = "opencomputers:White", tint = 0x5ec7f3},
+      {10, 14, 15, 12,16, 16, texture = "opencomputers:White", tint = 0x84e2ff},
+      {12, 14, 15, 14,16, 16, texture = "opencomputers:White", tint = 0x6eb8d2},
+      {14, 14, 15, 16,16, 16, texture = "opencomputers:White", tint = 0x264a53},
    }
-}
